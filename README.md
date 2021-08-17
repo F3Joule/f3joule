@@ -2,8 +2,8 @@
 
 🌱 My name is Vlad and I'm blockchain developer. I use Rust and Substrate for already more than 2 years.
 
-🧑‍🎓 I'm a bachelo
-r of Computer engineering, finished the Computer systems and networks education program. Now I'm studying for a master's degree in a field of Cybersecurity.
+🧑‍🎓 I'm a bachelor of Computer engineering, finished the Computer systems and networks education program. Now I'm studying for a master's degree in a field of Cybersecurity.
+
 🔭 I’m currently working on [Subsocial Substrate node](https://github.com/dappforce/subsocial-node/) and [Subsocial DevOps (DevEx) tools](https://github.com/dappforce/subsocial-starter/).
 
 ⚡ Deal with porgramming for already 9 years.
