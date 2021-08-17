@@ -8,7 +8,7 @@
 
 ⚡ Deal with porgramming for already 9 years.
 
-
+---
 📊 My GitHub stats for the last year:
 
 [![F3Joule's GitHub stats](https://github-readme-stats.vercel.app/api?username=f3joule&theme=dracula&show_icons=true&count_private=true&hide_title=true)](https://github.com/f3joule/f3joule)
