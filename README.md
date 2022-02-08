@@ -6,8 +6,6 @@
 
 🔭 I’m currently working on [Subsocial node](https://github.com/dappforce/subsocial-node/) and [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain), both based on Substrate.
 
-⚡ Deal with porgramming for more than 9 full years.
-
 ---
 📊 My GitHub stats for the last year:
 
