@@ -1,10 +1,10 @@
 ### Hi mates 👋
 
-🌱 My name is Vlad and I'm blockchain developer. I use Rust and Substrate for already more than 2 years.
+🌱 My name is Vlad and I'm blockchain developer. I use Rust and Substrate for already more than 3 years.
 
 🧑‍🎓 I'm a bachelor of Computer engineering, finished the Computer systems and networks education program. Now I'm studying for a master's degree in a field of Cybersecurity.
 
-🔭 I’m currently working on [Subsocial node](https://github.com/dappforce/subsocial-node/) and [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain), both based on Substrate.
+🔭 I’m currently working on [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain) based on Substrate and a few private projects.
 
 ---
 📊 My GitHub stats for the last year:
