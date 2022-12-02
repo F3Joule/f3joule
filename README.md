@@ -4,7 +4,7 @@
 
 🧑‍🎓 I'm a bachelor of Computer engineering, finished the Computer systems and networks education program. Now I'm studying for a master's degree in a field of Cybersecurity.
 
-🔭 I’m currently working on [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain) based on Substrate and a few private projects.
+🔭 I’m currently working on a few private projects, but mostly on [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain) based on Substrate.
 
 ---
 📊 My GitHub stats for the last year:
