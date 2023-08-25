@@ -1,16 +1,16 @@
 ### Hi mates 👋
 
-🌱 My name is Vlad and I'm blockchain developer. I use Rust and Substrate for already more than 3 years.
+🌱 My name is Vlad, and I'm a blockchain developer. I have been using Rust and Substrate for more than 4 years.
 
 🧑‍🎓 Education:
-- Self-educated programming engineer before. Then:
-  - A bachelor of Computer engineering. Finished the "Computer systems and networks" educational program.
-  - A master of Cybersecurity. Finished the "Administrative management in the field of Cybersecurity" educational program.
+- I started as a self-educated software engineer. Then:
+  - I earned a bachelor's degree in Computer Engineering, completing the "Computer Systems and Networks" educational program.
+  - I earned a master's degree in Cybersecurity, completing the "Administrative Management in the Field of Cybersecurity" educational program.
+  - I have currently applied for a PhD in Computer Sciences, specializing in the field of Software Engineering.
 
-
-🔭 I’m currently working on a few private projects, but mostly on [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain) based on Substrate.
+🔭 I'm presently working on a few private projects, but my primary focus is on [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain), which is based on Substrate.
 
 ---
-📊 My GitHub stats for the last year:
+📊 Here are my GitHub stats for the last year:
 
 [![F3Joule's GitHub stats](https://github-readme-stats.vercel.app/api?username=f3joule&theme=dracula&show_icons=true&count_private=true&hide_title=true)](https://github.com/f3joule/f3joule)
