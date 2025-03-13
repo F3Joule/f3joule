@@ -8,8 +8,6 @@
   - I earned a master's degree in Cybersecurity, completing the "Administrative Management in the Field of Cybersecurity" educational program.
   - I have currently applied for a PhD in Computer Sciences, specializing in the field of Software Engineering.
 
-🔭 I'm presently working on a few private projects, but my primary focus is on [Subsocial Parachain](https://github.com/dappforce/subsocial-parachain), which is based on Substrate.
-
 ---
 📊 Here are my GitHub stats for the last year:
 
